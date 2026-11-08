@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opensource-build/.github/main/profile/assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opensource-build/.github/main/profile/assets/logo-light.svg">
-  <img alt="opensource-build" src="https://raw.githubusercontent.com/opensource-build/.github/main/profile/assets/logo-dark.svg" width="96">
-</picture>
+<img alt="opensource-build" src="https://raw.githubusercontent.com/opensource-build/.github/main/profile/assets/logo.jpeg" width="96">
 
 # .github
 
